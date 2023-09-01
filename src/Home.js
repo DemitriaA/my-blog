@@ -1,8 +1,8 @@
 function Home() {
   return (
     <div>
-      <h1>Welcome to my React Project</h1>
-      <p>talk about yourself </p>
+      <h1>Welcome To Learning About Code Language</h1>
+      <p>what is code </p>
       
     </div>
   );
